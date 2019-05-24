@@ -9,6 +9,12 @@ import javax.swing.ImageIcon;
 
 import com.example.util.ResourceUtility;
 
+/**
+ * 
+ * @author chantal.roukatchinde
+ *
+ */
+
 public class Jeu {
     private ImageIcon[][] figures = loadImages(); // initialise figure avec methodes images
     
